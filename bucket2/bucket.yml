@@ -1,5 +1,6 @@
 flows:
-  dd3d7399-1558-43d7-b7ff-79ac4a2d1872: {ver: 1, file: bucket2jtoe.snapshot, comments: initil
-      version, author: anonymous, created: 1726218653113, flowName: bucket2jtoe, flowDesc: ''}
+  dd3d7399-1558-43d7-b7ff-79ac4a2d1872: {ver: 2, file: bucket2jtoe.snapshot, comments: removed
+      attribute, author: anonymous, created: 1726218723838, flowName: bucket2jtoe,
+    flowDesc: ''}
 layoutVer: 1
 bucketId: 4eb11d4a-9960-4780-a4a7-956587382293

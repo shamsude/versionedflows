@@ -722,7 +722,6 @@
           },
           "properties" : {
             "filename" : "M_all_output.csv",
-            "gbwec" : "ujhedcb",
             "Store State" : "Do not store state",
             "canonical-value-lookup-cache-size" : "100"
           },
@@ -737,12 +736,6 @@
               "displayName" : "filename",
               "identifiesControllerService" : false,
               "name" : "filename",
-              "sensitive" : false
-            },
-            "gbwec" : {
-              "displayName" : "gbwec",
-              "identifiesControllerService" : false,
-              "name" : "gbwec",
               "sensitive" : false
             },
             "Store State" : {
